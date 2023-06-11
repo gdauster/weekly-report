@@ -1,0 +1,119 @@
+{
+    "sections": [
+      {
+        "title": "Résumé des réalisations",
+        "fields": [
+          {
+            "label": "Tâches accomplies",
+            "type": "textarea",
+            "name": "tasksCompleted",
+            "hint": "Fournissez un résumé des tâches que vous avez accomplies pendant la semaine."
+          },
+          {
+            "label": "Milestones atteints",
+            "type": "textarea",
+            "name": "milestonesReached",
+            "hint": "Mettez en évidence les milestones ou réalisations importantes que vous avez atteints."
+          }
+        ]
+      },
+      {
+        "title": "Défis et solutions",
+        "fields": [
+          {
+            "label": "Défis rencontrés",
+            "type": "textarea",
+            "name": "challengesEncountered",
+            "hint": "Décrivez les défis ou obstacles auxquels vous avez été confronté pendant la semaine."
+          },
+          {
+            "label": "Approche et solutions",
+            "type": "textarea",
+            "name": "approachSolutions",
+            "hint": "Expliquez l'approche que vous avez adoptée pour résoudre les défis et les solutions ou contournements que vous avez mis en place."
+          },
+          {
+            "label": "Compétences en résolution de problèmes",
+            "type": "textarea",
+            "name": "problemSolvingSkills",
+            "hint": "Mettez l'accent sur la manière dont vos compétences en résolution de problèmes ont contribué à surmonter les obstacles."
+          }
+        ]
+      },
+      {
+        "title": "Plan de la semaine prochaine",
+        "fields": [
+          {
+            "label": "Tâches et objectifs",
+            "type": "textarea",
+            "name": "tasksGoals",
+            "hint": "Décrivez les tâches et les objectifs sur lesquels vous prévoyez de vous concentrer la semaine prochaine."
+          },
+          {
+            "label": "Échéances ou livrables",
+            "type": "textarea",
+            "name": "deadlinesDeliverables",
+            "hint": "Précisez les échéances ou les livrables à venir."
+          },
+          {
+            "label": "Dépendances ou ressources requises",
+            "type": "textarea",
+            "name": "dependenciesResources",
+            "hint": "Mentionnez les dépendances ou les ressources requises pour vos tâches et objectifs."
+          }
+        ]
+      },
+      {
+        "title": "Mises à jour du projet",
+        "fields": [
+          {
+            "label": "Avancement des projets en cours",
+            "type": "textarea",
+            "name": "projectProgress",
+            "hint": "Fournissez une mise à jour sur l'avancement des projets en cours auxquels vous participez."
+          },
+          {
+            "label": "Développements clés ou milestones atteints",
+            "type": "textarea",
+            "name": "keyDevelopments",
+            "hint": "Mentionnez les développements clés, les milestones atteints ou les changements notables dans les projets."
+          },
+          {
+            "label": "Impact de vos contributions",
+            "type": "textarea",
+            "name": "impactContributions",
+            "hint": "Mettez en évidence l'impact de vos contributions sur l'avancement des projets."
+          }
+        ]
+      },
+      {
+        "title": "Informations supplémentaires",
+        "fields": [
+          {
+            "label": "Mises à jour ou améliorations notables",
+            "type": "textarea",
+            "name": "noteworthyUpdates",
+            "hint": "Incluez toutes les mises à jour notables, les améliorations ou les nouvelles compétences acquises."
+          },
+          {
+            "label": "Commentaires ou suggestions",
+            "type": "textarea",
+            "name": "feedbackSuggestions",
+            "hint": "Partagez vos commentaires ou suggestions pour améliorer votre travail ou les performances de l'équipe."
+          }
+        ]
+      },
+      {
+        "title": "Autres informations",
+        "fields": [
+          {
+            "label": "Points supplémentaires ou autres informations",
+            "type": "textarea",
+            "name": "additionalPoints",
+            "hint": "Utilisez cette section pour aborder tout point supplémentaire ou information pertinente."
+          }
+        ]
+      }
+    ]
+  }
+  

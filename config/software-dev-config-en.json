@@ -1,0 +1,119 @@
+{
+    "sections": [
+      {
+        "title": "Summary of Accomplishments",
+        "fields": [
+          {
+            "label": "Tasks completed",
+            "type": "textarea",
+            "name": "tasksCompleted",
+            "hint": "Provide a summary of the tasks you have completed during the week."
+          },
+          {
+            "label": "Milestones reached",
+            "type": "textarea",
+            "name": "milestonesReached",
+            "hint": "Highlight any significant milestones or achievements you have reached."
+          }
+        ]
+      },
+      {
+        "title": "Challenges and Solutions",
+        "fields": [
+          {
+            "label": "Challenges encountered",
+            "type": "textarea",
+            "name": "challengesEncountered",
+            "hint": "Describe any challenges or obstacles you encountered during the week."
+          },
+          {
+            "label": "Approach and solutions",
+            "type": "textarea",
+            "name": "approachSolutions",
+            "hint": "Explain the approach you took to address the challenges and any solutions or workarounds you implemented."
+          },
+          {
+            "label": "Problem-solving skills",
+            "type": "textarea",
+            "name": "problemSolvingSkills",
+            "hint": "Emphasize how your problem-solving skills helped overcome the obstacles."
+          }
+        ]
+      },
+      {
+        "title": "Next Week's Plan",
+        "fields": [
+          {
+            "label": "Tasks and goals",
+            "type": "textarea",
+            "name": "tasksGoals",
+            "hint": "Outline the tasks and goals you plan to focus on in the upcoming week."
+          },
+          {
+            "label": "Deadlines or deliverables",
+            "type": "textarea",
+            "name": "deadlinesDeliverables",
+            "hint": "Specify any upcoming deadlines or deliverables."
+          },
+          {
+            "label": "Dependencies or resources required",
+            "type": "textarea",
+            "name": "dependenciesResources",
+            "hint": "Mention any dependencies or resources required for your tasks and goals."
+          }
+        ]
+      },
+      {
+        "title": "Project Updates",
+        "fields": [
+          {
+            "label": "Progress of ongoing projects",
+            "type": "textarea",
+            "name": "projectProgress",
+            "hint": "Provide an update on the progress of ongoing projects you are involved in."
+          },
+          {
+            "label": "Key developments or milestones reached",
+            "type": "textarea",
+            "name": "keyDevelopments",
+            "hint": "Mention any key developments, milestones reached, or notable changes in the projects."
+          },
+          {
+            "label": "Impact of contributions",
+            "type": "textarea",
+            "name": "impactContributions",
+            "hint": "Highlight how your contributions are impacting the progress of the projects."
+          }
+        ]
+      },
+      {
+        "title": "Additional Information",
+        "fields": [
+          {
+            "label": "Noteworthy updates or improvements",
+            "type": "textarea",
+            "name": "noteworthyUpdates",
+            "hint": "Include any noteworthy updates, improvements, or new skills acquired."
+          },
+          {
+            "label": "Feedback or suggestions",
+            "type": "textarea",
+            "name": "feedbackSuggestions",
+            "hint": "Share any feedback or suggestions for improving your work or the team's performance."
+          }
+        ]
+      },
+      {
+        "title": "Other Matters",
+        "fields": [
+          {
+            "label": "Additional points or matters",
+            "type": "textarea",
+            "name": "additionalPoints",
+            "hint": "Use this section to address any additional points or matters that may be relevant."
+          }
+        ]
+      }
+    ]
+  }
+  
