@@ -1,0 +1,58 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/report-form.css">
+
+  <meta name="theme-color" content="#fafafa">
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="form-container">
+        <span class="fexible-title">
+            <h2>Weekly Report Form</h2>
+            <div>
+                <label for="language-select"></label>
+                <select id="language-select">
+                <option value="en">English</option>
+                <option value="fr">French</option>
+                </select>
+            </div>
+        </span>
+      <form id="report-form">
+        <!-- Form elements will be dynamically generated here -->
+      </form>
+      <button id="generate-report-button" on>Generate Report</button>
+    </div>
+    <div class="report-container">
+        <h2>Generated Report</h2>
+        <textarea id="report-output" readonly></textarea>
+    </div>
+  </div>
+
+  <script src="js/vendor/modernizr-3.11.2.min.js"></script>
+  <script src="js/plugins.js"></script>
+  <script src="js/main.js"></script>
+
+  <script src="js/weekly-report.js"></script>
+</body>
+
+</html>
